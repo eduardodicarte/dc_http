@@ -1,6 +1,6 @@
-# Class: apachehttp
+# Class: dc_httpserver
 #
-# This module manages apachehttp
+# This module manages dc_httpserver
 #
 # Parameters: none
 #
@@ -10,6 +10,6 @@
 #
 # Sample Usage:
 #
-class dcapachehttp {
+class dc_httpserver {
 
 }

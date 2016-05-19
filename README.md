@@ -1,2 +1,2 @@
-# dc_http
-Módulo Puppet para gerenciamento do servidor Http
+# dc_httpserver
+Modulo Puppet para gerenciamento do servidor Http

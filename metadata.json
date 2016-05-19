@@ -2,7 +2,7 @@
   "author": "Eduardo Dicarte",
   "dependencies": [],
   "license": "MIT",
-  "name": "dc-apachehttp",
+  "name": "dc-httpserver",
   "operatingsystem_support": [],
   "project_page": "",
   "requirements": [],
