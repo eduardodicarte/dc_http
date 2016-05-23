@@ -10,6 +10,6 @@
 #
 # Sample Usage:
 #
-class dc_httpserver {
-
+class dc_httpserver(String $server) {
+	  include ::dc_httpserver::install
 }
