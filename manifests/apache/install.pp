@@ -1,6 +1,8 @@
 class dc_httpserver::apache::install {
+    $apacheVersion = '2.4.6-40.el7.centos.1'
+  
     package{"httpd":
-      ensure => present
+      ensure => $apacheVersion
     }
         
     service{"httpd":
